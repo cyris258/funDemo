@@ -1,0 +1,6 @@
+funasr
+torch
+torchaudio
+fastapi
+uvicorn
+python-multipart
